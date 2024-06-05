@@ -1,40 +1,40 @@
 en:
   plugins:
     aspace_content_warnings:
-      _plural: Harmful Content
-      _singular: Harmful Content
+      _plural: Potentially Offensive/Sensitive Content
+      _singular: Potentially Offensive/Sensitive Content
     content_warning:
-      _plural: Harmful Content
-      _singular: Harmful Content
+      _plural: Potentially Offensive/Sensitive Content
+      _singular: Potentially Offensive/Sensitive Content
       _frontend:
         action:
-          add: Add Harmful Content Warning
+          add: Add Potentially Offensive/Sensitive Content Warning
 
   content_warning:
-    content_warning_code: Harmful Content Type
+    content_warning_code: Potentially Offensive/Sensitive Content Type
     description: Description
-    section_title: May Contain Harmful Content
+    section_title: May Contain Potentially Offensive and Sensitive Content
 
   enumeration_names:
-    content_warning_code: Harmful Content Type
+    content_warning_code: Potentially Offensive/Sensitive Content Type
 
   advanced_search:
     enum:
-      content_warning_code: Harmful Content Type
+      content_warning_code: Potentially Offensive/Sensitive Content Type
     text:
-     content_warnings_u_sstr: Harmful Content Type
+     content_warnings_u_sstr: Potentially Offensive/Sensitive Content Type
 
   reports:
     content_warnings_list_report:
-      title: Harmful Content List Report
+      title: Potentially Offensive/Sensitive Content List Report
       description: >
-        List all Harmful Content tags and associated Accessions, Resources, Archival Objects, and Digital Objects.
+        List all Potentially Offensive/Sensitive Content tags and associated Accessions, Resources, Archival Objects, and Digital Objects.
 
   search:
     multi:
       title_sort: Title
-      content_warnings_u_sstr: May Contain Harmful Content
-      content_warnings_general_u_sbool: May Contain Harmful Content
+      content_warnings_u_sstr: May Contain Potentially Offensive/Sensitive Content
+      content_warnings_general_u_sbool: May Contain Potentially Offensive and Sensitive Content
 
   content_warning_description:
     # adult
@@ -49,3 +49,33 @@ en:
     # racism
     cw_racism_html: >
       This material contains racist content.
+    # animal
+    cw_animal_html: >
+      This material contains animal cruelty content.
+    # childabuse
+    cw_childabuse_html: >
+      This material contains child abuse content.
+    # birth
+    cw_birth_html: >
+      This material contains childbirth content.
+    # crime
+    cw_crime_html: >
+      This material contains crime scenes content.
+    # deceased
+    cw_deceased_html: >
+      This material contains deceased persons content.
+    # graphic
+    cw_graphic_html: >
+      This material contains graphic injuries or violent content.
+    # medical
+    cw_medical_html: >
+      This material contains patients in hospitals or other medical facilities content.
+    # records
+    cw_records_html: >
+      This material contains medical records content.
+    # nudity
+    cw_nudity_html: >
+      This material contains nudity content.
+    # minors
+    cw_minors_html: >
+      This material contains minors in potentially offensive and sensitive contexts content.
