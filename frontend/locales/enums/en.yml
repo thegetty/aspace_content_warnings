@@ -5,3 +5,13 @@ en:
       cw_general: Harmful Content (general)
       cw_hate: Hateful Content
       cw_racism: Racist Content
+      cw_animal: Animal Cruelty Content
+      cw_childabuse: Child Abuse Content
+      cw_birth: Childbirth Content
+      cw_crime: Crime Scenes Content
+      cw_deceased: Deceased Persons Content
+      cw_graphic: Graphic Injuries or Violence Content
+      cw_medical: Patients in Medical Facilities Content
+      cw_records: Medical Records Content
+      cw_nudity: Nudity Content
+      cw_minors: Minors in Potentially Offensive and Sensitive Contexts Content
