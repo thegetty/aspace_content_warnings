@@ -79,3 +79,10 @@ en:
     # minors
     cw_minors_html: >
       This material contains minors in potentially offensive and sensitive contexts content.
+    # cultural appropriation
+    cw_appropriation_html: >
+      This material contains cultural appropriation content.
+    # drugs/substances
+    cw_drugs_html: >
+      This material contains drugs/substances or use of drugs/substances content.
+
