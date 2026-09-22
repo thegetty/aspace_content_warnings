@@ -37,18 +37,6 @@ en:
       content_warnings_general_u_sbool: May Contain Potentially Offensive and Sensitive Content
 
   content_warning_description:
-    # adult
-    cw_adult_html: >
-      This material contains adult themed content.
-    # general
-    cw_general_html: >
-      This material contains harmful content.
-    # hateful
-    cw_hate_html: >
-      This material contains hateful content.
-    # racism
-    cw_racism_html: >
-      This material contains racist content.
     # animal
     cw_animal_html: >
       This material contains animal cruelty content.
