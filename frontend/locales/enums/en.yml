@@ -1,10 +1,6 @@
 en:
   enumerations:
     content_warning_code:
-      cw_adult: Adult Content
-      cw_general: Harmful Content (general)
-      cw_hate: Hateful Content
-      cw_racism: Racist Content
       cw_animal: Animal Cruelty Content
       cw_childabuse: Child Abuse Content
       cw_birth: Childbirth Content
